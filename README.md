@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Gaikwad</h1>
 <h3 align="center">Aspiring Computer Engineer | B.E. in Computer Engineering | Passionate About Software Development, AI & Web Technologies | Building Skills in Mobile & Web Application</h3>
-<img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0a7e6JmmQLypVvDxGa7GPa&ust=1756402290471000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDg__PCq48DFQAAAAAdAAAAABAE">
+<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurgaikwad18&label=Profile%20views&color=0e75b6&style=flat" alt="mayurgaikwad18" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
