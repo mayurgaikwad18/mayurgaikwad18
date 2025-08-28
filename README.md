@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/mayurgaikwad18/mayurgaikwad18/blob/main/bg-fotor-20250828131839.jpg)
 <h1 align="center">Hi 👋, I'm Mayur Gaikwad</h1>
 <h3 align="center">Aspiring Computer Engineer | B.E. in Computer Engineering | Passionate About Software Development, AI & Web Technologies | Building Skills in Mobile & Web Application</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
